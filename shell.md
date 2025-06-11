@@ -65,7 +65,7 @@ uname -a
 
 ### 🔧 Miscellaneous
 
-```
+```bash
 # Jalankan skrip setiap 1 menit (cron)
 * * * * * /path/to/script.sh
 
@@ -84,7 +84,7 @@ rename 's/\.txt$/.bak/' *.txt
 
 ### ⚙️ Tambahan Advanced (Opsional)
 ## 🔍 Keamanan & Audit
-```
+```bash
 # Cari file dengan permission 777
 find / -type f -perm 0777 2>/dev/null
 
@@ -99,6 +99,35 @@ w
 
 # Daftar semua user
 cat /etc/passwd | cut -d: -f1
+```
+### # Cek isi log sistem
+```bash
+tail -f /var/log/syslog
+# atau
+journalctl -xe
+
+# Cari proses yang jalan
+ps aux | grep php
+
+# Kill proses berdasarkan port
+fuser -k 8080/tcp
+```
+
+### 🛠️ Git & Dev Tools (jika kamu pakai server dev)
+```bash
+# Clone repo
+git clone https://github.com/user/repo.git
+
+# Cek status repo
+git status
+
+# Update semua package Ubuntu/Debian
+sudo apt update && sudo apt upgrade -y
+
+# Cek versi PHP, Node, Python
+php -v
+node -v
+python3 -V
 ```
 ### 💡 Tips: Tambahkan sudo di depan perintah jika butuh akses root.
 ### 📌 Jangan lupa star repo ini jika bermanfaat ⭐
