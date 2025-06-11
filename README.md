@@ -27,7 +27,7 @@ Koleksi cheat sheet, snippet, dan shortcut yang sering dipakai sehari-hari oleh 
 - [Shell Command](./shell.md)
 - [SQL Query Collection](./sql.md)
 - [Python Handy Scripts](./python.md)
-- [JavaScript Tricks](.javascript.md)
+- [JavaScript Tricks](./javascript.md)
 
 ---
 
