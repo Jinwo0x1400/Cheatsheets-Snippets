@@ -82,5 +82,23 @@ zip -r archive.zip folder/
 rename 's/\.txt$/.bak/' *.txt
 ```
 
+### ⚙️ Tambahan Advanced (Opsional)
+## 🔍 Keamanan & Audit
+```
+# Cari file dengan permission 777
+find / -type f -perm 0777 2>/dev/null
+
+# Cari file yang dimodifikasi 1 jam terakhir
+find . -type f -mmin -60
+
+# Cek login terakhir
+lastlog
+
+# Cek user aktif
+w
+
+# Daftar semua user
+cat /etc/passwd | cut -d: -f1
+```
 ### 💡 Tips: Tambahkan sudo di depan perintah jika butuh akses root.
 ### 📌 Jangan lupa star repo ini jika bermanfaat ⭐
