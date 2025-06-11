@@ -1,3 +1,5 @@
+
+
 ![GitHub stars](https://img.shields.io/github/stars/Jinwo0x1400/Cheatsheets-Snippets?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/Jinwo0x1400/Cheatsheets-Snippets)
 ![License](https://img.shields.io/github/license/Jinwo0x1400/Cheatsheets-Snippets)
@@ -7,12 +9,12 @@
 Kumpulan snippet dan cheat sheet singkat yang berguna untuk PHP, Laravel, Shell, SQL, JavaScript, dan Python.
 
 📁 Saat ini tersedia:
-- ✅ PHP Snippets → `PHP-Snippets.php`
-- 📌 Laravel Artisan
-- 📌 Shell Command
-- 📌 SQL Query Collection
-- 📌 JavaScript Tricks
-- 📌 Python Handy Scripts
+- ✅ PHP Snippets → `php.md`
+- 📌 Laravel Artisan `laravel.md`
+- 📌 Shell Command `shell.md`
+- 📌 SQL Query Collection `sql.md`
+- 📌 JavaScript Tricks `javascript.md`
+- 📌 Python Handy Scripts `python.md`
 
 # 🔥 Awesome Cheatsheets & Snippets
 
