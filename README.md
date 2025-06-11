@@ -2,7 +2,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/Jinwo0x1400/Cheatsheets-Snippets)
 ![License](https://img.shields.io/github/license/Jinwo0x1400/Cheatsheets-Snippets)
 
-# 📚 Cheatsheets & Snippets Collection
+# 📚 Jinwoo Cheatsheets & Snippets Collection
 
 Kumpulan snippet dan cheat sheet singkat yang berguna untuk PHP, Laravel, Shell, SQL, JavaScript, dan Python.
 
