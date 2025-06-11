@@ -44,13 +44,7 @@ php artisan migrate:fresh --seed # Reset DB + seeding
 
 Kontribusi terbuka! ⭐ Star repo ini jika bermanfaat.
 
-### tag GitHub:
-1.cheatsheet
+### 🏷️ GitHub Tags
 
-2.php
+`cheatsheet` · `php` · `laravel` · `snippets` · `productivity`
 
-3.laravel
-
-4.snippets
-
-5.productivity
