@@ -10,11 +10,11 @@ Kumpulan snippet dan cheat sheet singkat yang berguna untuk PHP, Laravel, Shell,
 
 📁 Saat ini tersedia:
 - ✅ PHP Snippets → `php.md`
-- 📌 Laravel Artisan `laravel.md`
-- 📌 Shell Command `shell.md`
-- 📌 SQL Query Collection `sql.md`
-- 📌 JavaScript Tricks `javascript.md`
-- 📌 Python Handy Scripts `python.md`
+- 📌 Laravel Artisan → `laravel.md`
+- 📌 Shell Command → `shell.md`
+- 📌 SQL Query Collection → `sql.md`
+- 📌 JavaScript Tricks → `javascript.md`
+- 📌 Python Handy Scripts → `python.md`
 
 # 🔥 Awesome Cheatsheets & Snippets
 
