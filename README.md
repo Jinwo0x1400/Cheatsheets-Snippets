@@ -11,3 +11,14 @@ Kumpulan snippet dan cheat sheet singkat yang berguna untuk PHP, Laravel, Shell,
 - 📌 Python Handy Scripts
 
 Kontribusi terbuka! ⭐ Star repo ini jika bermanfaat.
+
+### tag GitHub:
+cheatsheet
+
+php
+
+laravel
+
+snippets
+
+productivity
