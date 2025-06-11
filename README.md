@@ -22,7 +22,7 @@ Koleksi cheat sheet, snippet, dan shortcut yang sering dipakai sehari-hari oleh 
 
 ## 📦 Daftar Isi
 
-- [Laravel Artisan Cheatsheet](#laravel-artisan-cheatsheet)
+- [Laravel Artisan Cheatsheet](./laravel.md)
 - [PHP Snippets](#php-snippets)
 - [Shell Command](#shell-command)
 - [SQL Query Collection](#sql-query-collection)
