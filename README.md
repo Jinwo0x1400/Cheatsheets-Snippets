@@ -13,12 +13,12 @@ Kumpulan snippet dan cheat sheet singkat yang berguna untuk PHP, Laravel, Shell,
 Kontribusi terbuka! ⭐ Star repo ini jika bermanfaat.
 
 ### tag GitHub:
-cheatsheet
+1.cheatsheet
 
-php
+2.php
 
-laravel
+3.laravel
 
-snippets
+4.snippets
 
-productivity
+5.productivity
